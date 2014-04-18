@@ -11,7 +11,7 @@
 
   <groupId>org.jvirtanen.value</groupId>
   <artifactId>value</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
 
   <name>Value</name>
   <description>A support library for value objects in Java.</description>
@@ -35,7 +35,7 @@
     <connection>scm:git:git@github.com:jvirtanen/value.git</connection>
     <developerConnection>scm:git:git@github.com:jvirtanen/value.git</developerConnection>
     <url>https://github.com/jvirtanen/value</url>
-    <tag>value-0.1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
