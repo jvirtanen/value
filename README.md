@@ -6,7 +6,7 @@ Value is a support library for value objects in Java.
 Download
 --------
 
-Add a dependency to Value:
+Add a Maven dependency to Value:
 
     <dependency>
       <groupId>org.jvirtanen.value</groupId>
