@@ -3,6 +3,7 @@ Value
 
 Value is a support library for value objects in Java.
 
+
 Download
 --------
 
@@ -13,6 +14,7 @@ Add a Maven dependency to Value:
       <artifactId>value</artifactId>
       <version><!-- latest version --></version>
     </dependency>
+
 
 License
 -------
