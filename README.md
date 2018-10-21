@@ -20,6 +20,10 @@ Add a Maven dependency to Value:
 </dependency>
 ```
 
+See the [latest release][] on GitHub.
+
+  [latest release]: https://github.com/jvirtanen/value/releases/latest
+
 ## License
 
 Copyright 2014 Jussi Virtanen.
