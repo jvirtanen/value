@@ -2,6 +2,12 @@
 
 Value is a support library for value objects in Java.
 
+## Dependencies
+
+Value depends on the following libraries:
+
+- Apache Commons Lang 3.8.1
+
 ## Download
 
 Add a Maven dependency to Value:
