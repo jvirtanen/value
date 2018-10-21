@@ -1,23 +1,20 @@
-Value
-=====
+# Value
 
 Value is a support library for value objects in Java.
 
-
-Download
---------
+## Download
 
 Add a Maven dependency to Value:
 
-    <dependency>
-      <groupId>org.jvirtanen.value</groupId>
-      <artifactId>value</artifactId>
-      <version><!-- latest version --></version>
-    </dependency>
+```xml
+<dependency>
+  <groupId>org.jvirtanen.value</groupId>
+  <artifactId>value</artifactId>
+  <version><!-- latest version --></version>
+</dependency>
+```
 
-
-License
--------
+## License
 
 Copyright 2014 Jussi Virtanen.
 
