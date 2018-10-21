@@ -19,5 +19,6 @@ Add a Maven dependency to Value:
 License
 -------
 
-Value is released under the Apache License, Version 2.0. See `LICENSE` for
-details.
+Copyright 2014 Jussi Virtanen.
+
+Released under the Apache License, Version 2.0. See `LICENSE.txt` for details.
